@@ -3,4 +3,6 @@ inputs:
   - name: code
 run:
   dir: code
-  path: msbuild
+  path: powershell
+  args:
+  - build_NET.ps1
