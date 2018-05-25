@@ -5,4 +5,4 @@ run:
   dir: code
   path: powershell
   args:
-  - build_NET.ps1
+  - .\build_NET.ps1
